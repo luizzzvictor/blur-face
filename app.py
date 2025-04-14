@@ -81,9 +81,9 @@ def process_batch_images(
 
 
 def main():
-    st.set_page_config(page_title="DMF-tools", page_icon="🎭")
+    st.set_page_config(page_title="Desfoque de Faces", page_icon="🎭")
 
-    st.title("DMF-tools: Desfoque de Faces")
+    st.title("Desfoque de Faces")
 
     # Mode selection
     processing_mode = st.radio(
