@@ -1,4 +1,4 @@
-# DMF-tools: Desfoque de Faces com OpenCV
+# Desfoque de Faces com OpenCV
 
 Uma ferramenta para desfocar faces em imagens usando OpenCV e Streamlit. Este projeto é uma adaptação do trabalho original de [Face-Blurring-OpenCV](https://github.com/arkalsekar/Face-Blurring-OpenCV) por [@arkalsekar](https://github.com/arkalsekar).
 
