@@ -16,8 +16,7 @@ Uma ferramenta para desfocar faces em imagens usando OpenCV e Streamlit. Este pr
 1. Clone o repositório:
 
 ```bash
-git clone [seu-repositório]
-```
+git clone https://github.com/luizzzvictor/blur-face
 
 2. Instale as dependências:
 
